@@ -1,2 +1,2 @@
-# repo-demo
+# practicando-git
 Repositorio de prueba
