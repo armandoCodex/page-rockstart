@@ -1,2 +1,2 @@
-name = "cup"
+name = "charger"
 print("Hola " + name)
